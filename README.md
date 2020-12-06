@@ -51,20 +51,16 @@ This project showcases the journey of tea on blockchain.
 ---
 -  Solidity (Ethereum)
 -  Metamask  (Ethereum wallet)
--  Rinkeby test network ( use rinkeby faucet to get ethers on rinkeby network )
--  Infura
 -  Truffle
--  IPFS
 -  Web3JS
 -  Apache and PHP
 
 #### Prerequisites
 ---
-- Nodejs v9.10 or above
-- Truffle v4.1.8 (core: 4.1.8) (http://truffleframework.com/docs/getting_started/installation)
+- Nodejs v10.19.0 or above
+- Truffle v5.1.46 (http://truffleframework.com/docs/getting_started/installation)
 - Solidity v0.4.23
 - Metamask (https://metamask.io) /Ganache Wallet
-> [Please Note : infura.io provider is used for the demo ]
 
 #### Deployment Steps:
 ---
